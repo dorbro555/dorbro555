@@ -1,0 +1,6 @@
+- 🤹‍♂️ Fullstack dev.
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning Python, Rust, and Clojure.
+- 👯 I’m looking to collaborate on projects in any language, I like to learn!
+- 📫 How to reach me: 
+- ⚡ Fun fact: I always have $10/month worth of virtual private servers, currently on digitalOcean. I believe it's better to have them and not need them than vice-versa.
